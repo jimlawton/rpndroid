@@ -1,0 +1,1 @@
+This is a project to create an emulator for classic HP RPN calculators from the 1970s and 1980s.
